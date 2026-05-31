@@ -14,30 +14,34 @@ import useBaseUrl from '@docusaurus/useBaseUrl'
 		</td>
 		<td>
 			<rater value="5">
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Extensibility
-		</td>
-		<td>
-			<rater value="3">
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Performance
-		</td>
-		<td>
-			<rater value="3">
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Security
-		</td>
-		<td>
-			<rater value="2">
+				<tr>
+					<td>
+						Extensibility
+					</td>
+					<td>
+						<rater value="3">
+							<tr>
+								<td>
+									Performance
+								</td>
+								<td>
+									<rater value="3">
+										<tr>
+											<td>
+												Security
+											</td>
+											<td>
+												<rater value="2">
+												</rater>
+											</td>
+										</tr>
+									</rater>
+								</td>
+							</tr>
+						</rater>
+					</td>
+				</tr>
+			</rater>
 		</td>
 	</tr>
 </table>

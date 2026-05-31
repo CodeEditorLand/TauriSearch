@@ -14,23 +14,39 @@ import Rater from '@theme/Rater'
 <div className="row">
   <div className="col col--4">
     <table>
-      <tr>
-        <td>Ease of Use</td>
-        <td><Rater value="0"/></td>
-      </tr>
-      <tr>
-        <td>Extensibility</td>
-        <td><Rater value="0"/></td>
-      </tr>
-      <tr>
-        <td>Performance</td>
-        <td><Rater value="5"/></td>
-      </tr>
-      <tr>
-        <td>Security</td>
-        <td><Rater value="0"/></td>
-      </tr>
-    </table>
+	<tr>
+		<td>
+			Ease of Use
+		</td>
+		<td>
+			<rater value="0">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Extensibility
+		</td>
+		<td>
+			<rater value="0">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Performance
+		</td>
+		<td>
+			<rater value="5">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Security
+		</td>
+		<td>
+			<rater value="0">
+		</td>
+	</tr>
+</table>
   </div>
   <div className="col col--4 pattern-logo">
     <img src={useBaseUrl('img/patterns/GLUI.png')} alt="GLUI" />

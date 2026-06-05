@@ -34,6 +34,7 @@ import Rater from '@theme/Rater'
 											</td>
 											<td>
 												<rater value="5">
+												</rater>
 											</td>
 										</tr>
 									</rater>

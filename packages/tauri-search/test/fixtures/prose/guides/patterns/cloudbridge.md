@@ -32,6 +32,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl'
 											</td>
 											<td>
 												<rater value="2">
+												</rater>
 											</td>
 										</tr>
 									</rater>

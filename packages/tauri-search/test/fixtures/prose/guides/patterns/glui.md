@@ -38,7 +38,6 @@ import Rater from '@theme/Rater'
 											</td>
 											<td>
 												<rater value="0">
-												</rater>
 											</td>
 										</tr>
 									</rater>
